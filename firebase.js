@@ -14,7 +14,6 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // Ваши ключи из Firebase Console → Project Settings
 const firebaseConfig = {
-  apiKey: "AIzaSyBuahaebSE-baxMxAWD8_tC2gofWvCVfNA",
   authDomain: "chatpadapp.firebaseapp.com",
   projectId: "chatpadapp",
   storageBucket: "chatpadapp.firebasestorage.app",
